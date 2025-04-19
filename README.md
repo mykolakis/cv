@@ -15,15 +15,11 @@ Symfony, Laravel
 **Other**  
 GraphQL, Solidity, C, Ruby, Bash
 
-## 
-
 ## **Communication languages**
 
 English B2  
 Ukrainian C1  
 Polish A1
-
-## 
 
 ## **Current location**
 
@@ -37,25 +33,19 @@ Remote
 
 ### **National Mining University in Ukraine, Dnipro**	
 
-## 2010 \- 2015
+#### 2010 \- 2015
 
 Master’s degree in information security management area
-
----
 
 # **Work history and projects**
 
 ## [**Fondy Flow**](https://fondyflow.io)
 
-## June 2024 \- Present
+#### June 2024 \- Present
 
-### 
-
-### **REACT, REDUX, MUI, CYPRESS, JEST, LERNA, GLOBAL COMPONENTS**
-
-### **JAVA, SPRING, NODE.JS, KEYCLOAK, POSTGRESQL**
-
-### **SEO, GCLOUD**
+#### **REACT, REDUX, MUI, CYPRESS, JEST, LERNA, GLOBAL COMPONENTS**
+#### **JAVA, SPRING, NODE.JS, KEYCLOAK, POSTGRESQL**
+#### **SEO, GCLOUD**
 
 Fondy Flow is a multi currency business account platform designed to simplify global payments for businesses. It enables companies to receive and send funds, manage payouts, and operate in multiple currencies through dedicated IBANs, functioning similarly to local bank accounts in various countries. ​  
 During the cooperation, the project has been maintained and introduced such features as:
@@ -92,17 +82,12 @@ During the cooperation, the project has been maintained and introduced such feat
 
 ## [**GeekPay**](https://www.geekpay.co/)
 
-## November 2022 \- April 2024
+#### November 2022 \- April 2024
 
-### 
-
-### **REACT, REDUX, TYPESCRIPT, MUI, NODE.JS, EXPRESS**
-
-### **POSTGRESQL, SMART CONTRACTS, BLOCKCHAIN**
-
-### **SOLIDITY, ETHEREUM, NEAR, BINANCE, POLYGON, TRON**
-
-### **SEO, WEBFLOW**
+#### **REACT, REDUX, TYPESCRIPT, MUI, NODE.JS, EXPRESS**
+#### **POSTGRESQL, SMART CONTRACTS, BLOCKCHAIN**
+#### **SOLIDITY, ETHEREUM, NEAR, BINANCE, POLYGON, TRON**
+#### **SEO, WEBFLOW**
 
 GeekPay is a payment platform that helps companies to streamline crypto payments to contractors in an easy, fast, and riskless way.  
 During the cooperation, the project has been developed, maintained, and introduced such features as:
@@ -140,19 +125,14 @@ During the cooperation, the project has been developed, maintained, and introduc
   * invite by email or sharable link  
 - Switch Contractor to Company and vice versa
 
----
-
 ## [**Upwork**](https://www.upwork.com/)**’s internal employee**
 
-## April 2017 \- April 2021
+#### April 2017 \- April 2021
 
-### **JAVASCRIPT, ANGULAR, NUXT.JS, VUE.JS, TYPESCRIPT**
-
-### **PHP, SYMFONY,**
-
-### **DYNAMODB, MYSQL, POSTGRESQL**
-
-### **SEO, A/B TESTING, AWS, WEBFLOW**
+#### **JAVASCRIPT, ANGULAR, NUXT.JS, VUE.JS, TYPESCRIPT**
+#### **PHP, SYMFONY,**
+#### **DYNAMODB, MYSQL, POSTGRESQL**
+#### **SEO, A/B TESTING, AWS, WEBFLOW**
 
 Upwork connects businesses with independent professionals and agencies around the globe.  
 Worked well independently and on a team to achieve company goals. Organized and prioritized work to complete assignments in a timely, efficient manner.  
@@ -177,11 +157,9 @@ Jenkins docker builds under AWS EC2. AWS S3, AWS PostgreSQL, AWS DynamoDB, AWS M
 
 ## **Payroll tax calculator API**
 
-## March 2022 \- October 2022
+#### March 2022 \- October 2022
 
-### 
-
-### **NODE.JS, EXPRESS, TYPESCRIPT**
+#### **NODE.JS, EXPRESS, TYPESCRIPT**
 
 Calculator API allows you to calculate net pay or "take-home pay" by entering your per-period or annual salary along with the pertinent federal, state, and local W-4 information.
 
@@ -191,13 +169,11 @@ The goal was to develop an API endpoint that takes configuration files with tax 
 
 ## [**TecknaEl**](https://tecknael.se/)
 
-## October 2021 \- February 2022
+#### October 2021 \- February 2022
 
-### **VUE.JS, NODE.JS**
-
-### **PHP, LARAVEL, RABBITMQ**
-
-### **MYSQL**
+#### **VUE.JS, NODE.JS**
+#### **PHP, LARAVEL, RABBITMQ**
+#### **MYSQL**
 
 TecknaEl is a comparison site for electricity contracts targeting the Swedish and Spanish markets.
 
@@ -207,9 +183,9 @@ I've joined an existing project and worked on improving its features, current su
 
 ## [**Crowd Marketing Service**](https://referr-service.com/)
 
-## January 2016 \- December 2016
+#### January 2016 \- December 2016
 
-### **JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, MYSQL, SEO**
+#### **JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, MYSQL, SEO**
 
 Service is divided into customer, poster, and admin (moderator, manager) panels. The customer creates a project by specifying the address of a website, description, and links necessary for SEO promotion. Then he picks the service plan and sends the project to the moderator which is picked automatically. Moderator checks approve or reject project created. He can indicate what information is missing and return the project back to the customer. The customer pays for the project and the promotion team starts working on it.
 
@@ -221,9 +197,9 @@ As the only developer who has created the entire project from scratch. The proje
 
 ## **WorkSel**
 
-## February 2015 \- December 2015
+#### February 2015 \- December 2015
 
-### **JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, SEO**
+#### **JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, SEO**
 
 The portal allows customers to find and recruit performers from different countries and service fields. Support for English, Russian, and Ukrainian languages.
 
@@ -241,9 +217,9 @@ As the only developer, I've created an entire project from scratch. The project 
 
 ## **SkyChat**
 
-## August 2014 \- January 2015
+#### August 2014 \- January 2015
 
-### **WEBSOCKETS, MYSQL, JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, SEO**
+#### **WEBSOCKETS, MYSQL, JAVASCRIPT, ANGULARJS, JQUERY, PHP,  SYMFONY, SEO**
 
 Allows registered or anonymous users to chat in a variety of chat rooms: one-on-one with someone; create your own chat room; general chat
 
