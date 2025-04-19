@@ -172,6 +172,7 @@ During the cooperation, the project has been developed, maintained, and introduc
 - Up-to-date technical documentation under Confluence
 
 Jenkins docker builds under AWS EC2. AWS S3, AWS PostgreSQL, AWS DynamoDB, AWS MySQL, AWS Redis, AWS Memcached, AWS lambda, AWS kinesis services tech stack.  
+
 ---
 
 ## **Payroll tax calculator API**
@@ -185,6 +186,7 @@ Jenkins docker builds under AWS EC2. AWS S3, AWS PostgreSQL, AWS DynamoDB, AWS M
 Calculator API allows you to calculate net pay or "take-home pay" by entering your per-period or annual salary along with the pertinent federal, state, and local W-4 information.
 
 The goal was to develop an API endpoint that takes configuration files with tax computation-related data for each state of the United States and performs payroll tax calculations similar to Symmetry API (the most popular and accurate API in the US). Calculation results comparison has been done by testing the output results to be 0.01% accurate with Symmetry API for salary calculation.  
+
 ---
 
 ## [**TecknaEl**](https://tecknael.se/)
@@ -200,6 +202,7 @@ The goal was to develop an API endpoint that takes configuration files with tax 
 TecknaEl is a comparison site for electricity contracts targeting the Swedish and Spanish markets.
 
 I've joined an existing project and worked on improving its features, current support, and further development. One of the first biggest goals was a huge client migration from a legacy site called elprisguiden.se with integration into the existing managing system. After migration and integration, I worked on a complex feature that allowed me to import or manually override specific company prices for electricity with the ability to use scrapped from web or manual overrides. One of the last required features was aggregated search results which should show sponsored companies before others which customers can control manually with their management system.  
+
 ---
 
 ## [**Crowd Marketing Service**](https://referr-service.com/)
@@ -213,6 +216,7 @@ Service is divided into customer, poster, and admin (moderator, manager) panels.
 The poster publishes links and after approval of the moderator, they get to the customer and are expected to be approved by him too. Once all the necessary links of the project are considered to be completed it goes to the archive. Used PHP, Symfony, JavaScript, jQuery, and AngularJS tech stack.
 
 As the only developer who has created the entire project from scratch. The project is still online, listed on the first page of Google for the CIS market. Great positive impact on SEO growth for customers.  
+
 ---
 
 ## **WorkSel**
@@ -232,6 +236,7 @@ Administrators are able to manage site features mentioned above as content of di
 Symfony, PHP, AngularJS, and javascript with jQuery were used.
 
 As the only developer, I've created an entire project from scratch. The project is currently offline because of huge competition in the service providers field in the CIS market.  
+
 ---
 
 ## **SkyChat**
